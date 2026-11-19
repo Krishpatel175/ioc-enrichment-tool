@@ -1,0 +1,8 @@
+# Virtual environment - rebuildable, never commit
+venv/
+
+# Python cache files
+__pycache__/
+
+# Secrets - API keys will live here later
+.env
